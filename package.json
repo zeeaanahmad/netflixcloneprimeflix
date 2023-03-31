@@ -1,7 +1,8 @@
 {
-  "name": "react-netflix-clone",
+  "name": "primeflix",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zeeaanahmad.github.io/primeflix/",
   "dependencies": {
     "firebase": "^8.2.1",
     "fuse.js": "^6.4.6",
@@ -46,13 +47,15 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.2",
-    "@testing-library/user-event": "^12.6.0"
+    "@testing-library/user-event": "^12.6.0",
+    "gh-pages": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --coverage --watchAll",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy" : "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
