@@ -1,3 +1,4 @@
-# react-netflix-clone
+# primeflix clone 
 
-https://shan-react-netflix-clone.netlify.app/
+"https://zeeaanahmad.github.io/primeflix/",
+
