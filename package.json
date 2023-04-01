@@ -2,7 +2,7 @@
   "name": "primeflix",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zeeaanahmad.github.io/primeflix/",
+  "homepage": "./",
   "dependencies": {
     "firebase": "^8.2.1",
     "fuse.js": "^6.4.6",
