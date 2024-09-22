@@ -1,4 +1,4 @@
 # primeflix clone 
 
-"https://zeeaanahmad.github.io/primeflix/",
+"https://zeeaanahmad.github.io/netflixcloneprimeflix/",
 
